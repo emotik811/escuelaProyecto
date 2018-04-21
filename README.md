@@ -1,0 +1,2 @@
+# escuelaProyecto
+Práctica de Git
